@@ -50,10 +50,11 @@
 
 ## Content Planning & Scheduling
 
+- **[Airtable](https://airtable.com)** — Spreadsheet-database hybrid for tracking video ideas and publishing schedules.
+- **[Arcmira: YouTube Transcript Search](https://arcmira.com/)** — Finds timestamped passages in indexed YouTube videos and livestreams for source research and clip discovery, with [API access](https://arcmira.com/docs).
+- **[Google Calendar](https://calendar.google.com)** — Widely used for scheduling recording, editing, and publishing deadlines.
 - **[Notion](https://www.notion.so)** — Flexible workspace commonly used for content calendars and script drafting.
 - **[Trello](https://trello.com)** — Kanban-style board tool for planning video production pipelines.
-- **[Google Calendar](https://calendar.google.com)** — Widely used for scheduling recording, editing, and publishing deadlines.
-- **[Airtable](https://airtable.com)** — Spreadsheet-database hybrid for tracking video ideas and publishing schedules.
 - **[TubeBuddy Schedule](https://www.tubebuddy.com)** — Bulk scheduling and publish-time optimization for YouTube uploads.
 
 ## Community & Engagement Tools
